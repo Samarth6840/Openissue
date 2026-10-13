@@ -1,0 +1,6 @@
+__pycache__/
+data/raw/
+*.pyc
+.DS_Store
+*.npy
+outputs/reports/semantic_sample_5k.csv
